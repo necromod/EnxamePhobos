@@ -1,0 +1,12 @@
+C:\Users\wil.rrsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\bin\Debug\EnxamePhobos.DTO.dll
+C:\Users\wil.rrsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\bin\Debug\EnxamePhobos.DTO.pdb
+C:\Users\wil.rrsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.csproj.AssemblyReference.cache
+C:\Users\wil.rrsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\wil.rrsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.dll
+C:\Users\wil.rrsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.pdb
+C:\Users\edimilson.rsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\bin\Debug\EnxamePhobos.DTO.dll
+C:\Users\edimilson.rsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\bin\Debug\EnxamePhobos.DTO.pdb
+C:\Users\edimilson.rsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.csproj.AssemblyReference.cache
+C:\Users\edimilson.rsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\edimilson.rsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.dll
+C:\Users\edimilson.rsilva\source\repos\EnxamePhobos\EnxamePhobos.DTO\obj\Debug\EnxamePhobos.DTO.pdb
